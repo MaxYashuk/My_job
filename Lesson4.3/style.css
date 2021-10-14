@@ -1,0 +1,27 @@
+th{
+    font-size: 30px;
+    color: white;
+    background-color: turquoise;
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+.row :hover{
+    border: 2px;
+    width: 300px;
+    height: 150px;
+}
+body{
+    background-color: bisque;
+}
+.row{
+    background-color: white;
+}
+td{
+    background-color: white;
+    font-size: 30px;
+}
+h1{
+    font-size: 50px;
+}

@@ -1,0 +1,30 @@
+.row{
+    background: rgb(230,2,2);
+    background: linear-gradient(90deg, rgba(230,2,2,1) 0%, rgba(222,10,10,1) 28%, rgba(233,166,155,1) 54%);
+    color: yellow;
+}
+.super{
+    background-color: brown;
+    color: white;
+}
+.hero{
+    background: rgb(176,0,0);
+    background: linear-gradient(90deg, rgba(176,0,0,1) 0%, rgba(222,10,10,1) 68%, rgba(187,109,96,1) 100%);
+    color: floralwhite;
+
+}
+
+.haro{
+    background: rgb(176,0,0);
+    background: linear-gradient(90deg, rgba(176,0,0,1) 0%, rgba(222,10,10,1) 0%, rgba(232,105,84,1) 100%);
+    color: floralwhite;
+}
+.coor{
+    color: royalblue;
+}
+.color{
+    background-color: red;
+}
+table{
+    margin: auto;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: gainsboro;
+}
+table{
+    margin: auto;
+    width: 500px; 
+    height: 400px;
+}
+th{
+    background-color:red;
+    color: white;
+}
+.lesson{
+    background-color: slategrey;
+}
+.item{
+    background-color: springgreen;
+}
+.max{
+    background-color: tan;
+}

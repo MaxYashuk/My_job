@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+table{
+    height: 300px;
+    width: 1500px;
+    margin: auto;
+}
+td:hover{
+    border: 2px solid black;
+    transition:all 2s;
+    background-color: gray;
+}
+a{
+    text-decoration: none;
+    font-size: 40px;
+}
+body{
+    background-color: gainsboro;
+}
+h1{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 50px;
+}
+h1{
+    text-align: center;
+}
+td{
+    text-align: center;
+
+}
